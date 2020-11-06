@@ -1,0 +1,72 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+ 
+
+#container{
+    width: 99%;
+    margin: 2px;
+    border: 2px solid black;
+
+
+}
+#claro {
+    background-color: floralwhite;
+    padding: 1px;
+    margin: 3PX;
+    border: solid black;
+    border-radius: 10PX;
+}
+
+
+
+
+h1{
+    color: rgb(241, 241, 238);
+}
+#feo {
+    color: rgb(201, 94, 55);
+}
+h3{
+    color: rgb(56, 51, 51);
+}
+
+A:link {
+    color: green;
+}
+a:visited {
+    color: red;
+}
+a:hover {
+    color: pink;
+    text-decoration: underline;
+}
+a:active {
+    color: yellow;
+}
+
+
+
+
+table, th, td {
+    border: 1px solid black;
+    
+}
+
+p.duke{
+    color:white;
+}
+
+div {
+    font-weight: bold;
+    border: 2% solid black;
+    border-radius: 5px
+    
+}
+
+
+#blanco {
+    color: salmon;
+}
